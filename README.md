@@ -1,3 +1,4 @@
+<!-- Haiqal (Heyqull) GitHub Profile README -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -52,18 +53,17 @@
 
 ---
 
-## 🏢 Experience
-**Backend Development Intern — BitLab Digital, Damansara**
-- Built **custom websites and applications** for clients.
-- Contributed to a **government-scale Orphan Management System**.
-- Tech used: **.NET, .NET Core, PHP, REST API, SQL Server**.
+## 📌 Featured Projects
+- **Orphan Management System (Gov of Brunei) — Backend Modules**  
+  Role: API development, SQL Server schema, auth & audit trails.  
+  Tech: .NET Core, REST API, SQL Server.
 
 ---
 
 ## 🤝 Let’s Connect
 - 📧 Email: **[a.haiqaal@gmail.com](mailto:a.haiqaal@gmail.com)**
-- 🧑‍💻 GitHub: **@Heyqull**
+- 🧑‍💻 GitHub: **[@Heyqull](https://github.com/Heyqull)**
 
 ---
 
-<p align="center"><i>“Coding is fun until you have to explain it”</i></p>
+<p align="center"><i>“The best way to predict the future is to create it.”</i></p>
