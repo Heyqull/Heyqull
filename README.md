@@ -1,88 +1,61 @@
 <!-- Haiqal (Heyqull) GitHub Profile README -->
 
-<!-- Animated Gradient Background (via SVG hosted in repo or external source) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Heyqull/Heyqull/main/assets/animated-gradient.svg" alt="animated background" />
-</p>
-
-<!-- Fancy Typing Banner -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Full-Stack+Developer;💡+Always+Learning+New+Tech;🤝+Open+for+Collaboration+%26+Freelance" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=800&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%F0%9F%92%BB;Open+for+Collaboration+%7C+Freelance+%F0%9F%A4%9D;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <h1 align="center">Hi, I'm Haiqal 👋</h1>
 
 <p align="center">
-  🌏 Junior Full-Stack Developer from <b>Malaysia</b> • 🎓 Computer Science Graduate • 💻 Passionate about code, clean architecture, and creative builds.
+  Full-Stack Developer from <b>Malaysia</b> • Computer Science graduate • Enthusiastic about code, clean architecture, and learning new tech.
 </p>
 
 <p align="center">
-  <a href="mailto:a.haiqaal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-a.haiqaal%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:a.haiqaal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-a.haiqaal%40gmail.com-informational?style=for-the-badge&logo=gmail"/></a>
   <a href="https://github.com/Heyqull"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@Heyqull-181717?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-✨ Building **custom websites and applications** end‑to‑end, from sleek frontends to scalable backends.  
-📌 Completed a **Backend Internship** at **BitLab Digital (Damansara)**.  
-🏛️ Contributed to a **Government of Brunei Orphan Management System** using **.NET/.NET Core, PHP, REST APIs, SQL Server**.  
-🌱 Exploring opportunities in **Frontend**, **Backend**, **Mobile**, and **AI/ML**.  
+- I build **custom websites and applications** end‑to‑end, from **intuitive frontends** to **robust backends**.
+- Recently completed a **Backend Internship** at **BitLab Digital (Damansara)**.
+- Contributed to an **Orphan Management System** for the **Government of Brunei** using **.NET/.NET Core, PHP, REST APIs, SQL Server**.
+- Open to **collaboration**, **freelance gigs**, and **learning opportunities** in **Frontend**, **Backend**, **Mobile**, and **AI/ML**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,php,js,html,css,django,mysql,postgres,react,nodejs,git,github,vscode,figma" />
+### Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
----
-
-## 🏢 Experience
-**Backend Development Intern — BitLab Digital, Damansara**  
-🔧 Built **custom websites and applications** for clients.  
-🏛️ Worked on a **government-scale Orphan Management System**.  
-⚙️ Tech: **.NET, .NET Core, PHP, REST API, SQL Server**.  
-
----
-
-## 📌 Featured Projects
-- **Orphan Management System (Gov of Brunei) — Backend Modules**  
-  API development, SQL Server schema, auth & audit trails.  
-  Tech: .NET Core, REST API, SQL Server.  
-
-- **Full‑Stack Starter**  
-  CRUD, auth, role-based access, modular design.  
-  Tech: C#, .NET, EF Core, React/Vue, SQL.  
-
----
-
-## 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heyqull&show_icons=true&theme=tokyo-night&hide_title=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heyqull&layout=compact&theme=tokyo-night" height="165" />
+### Databases, APIs & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=buffer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Heyqull&theme=tokyo-night&hide_border=false" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heyqull&theme=tokyo-night" alt="Activity Graph"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/Heyqull/Heyqull/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🤝 Let’s Connect
-📧 Email: **[a.haiqaal@gmail.com](mailto:a.haiqaal@gmail.com)**  
-🧑‍💻 GitHub: **[@Heyqull](https://github.com/Heyqull)**  
-🌐 (Optional) LinkedIn/Portfolio — add links here  
+- 📧 Email: **[a.haiqaal@gmail.com](mailto:a.haiqaal@gmail.com)**
+- 🧑‍💻 GitHub: **[@Heyqull](https://github.com/Heyqull)**
 
 ---
 
