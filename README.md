@@ -22,8 +22,8 @@
 ## 🧑‍💻 About Me
 - I build **custom websites and applications** end‑to‑end, from **intuitive frontends** to **robust backends**.
 - Recently completed a **Backend Internship** at **BitLab Digital (Damansara)**.
-- Contributed to an **Orphan Management System** for the **Government of Brunei** using **.NET/.NET Core, PHP, REST APIs, SQL Server**.
-- Open to **collaboration**, **freelance gigs**, and **learning opportunities** in **Frontend**, **Backend**, **Mobile**, and **AI/ML**.
+- Contributed to an **Orphan Management System** for the **Government of Brunei** using **.NET/.NET Core, C#, REST APIs, SQL Server**.
+- Open to **collaboration**, **freelance**, and **learning opportunities** in **Frontend**, **Backend**, **Mobile**, and **AI/ML**.
 
 ---
 
@@ -59,4 +59,4 @@
 
 ---
 
-<p align="center"><i>“The best way to predict the future is to create it.”</i></p>
+<p align="center"><i>“It doesn't work, why? It works, why?”</i></p>
