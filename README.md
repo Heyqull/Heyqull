@@ -1,16 +1,33 @@
-## Hi there 👋
+🧑‍💻 About Me
 
-<!--
-**Heyqull/Heyqull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build custom websites and applications end‑to‑end, from intuitive frontends to robust backends.
 
-Here are some ideas to get you started:
+Recently completed a Backend Internship at BitLab Digital (Damansara).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contributed to an Orphan Management System for the Government of Brunei using .NET/.NET Core, PHP, REST APIs, SQL Server.
+
+Open to collaboration, freelance gigs, and learning opportunities in Frontend, Backend, Mobile, and AI/ML.
+
+🛠️ Tech Stack
+
+Languages & Frameworks
+
+Databases, APIs & Tools
+
+🏢 Experience
+
+Backend Development Intern — BitLab Digital, Damansara
+
+Built custom websites and applications for clients.
+
+Contributed to a government-scale Orphan Management System.
+
+Tech used: .NET, .NET Core, PHP, REST API, SQL Server.
+
+
+
+🤝 Let’s Connect
+
+📧 Email: a.haiqaal@gmail.com
+
+
