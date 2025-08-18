@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=800&center=true&vCenter=true&width=900&lines=Junior+Full-Stack+Developer+%F0%9F%92%BB;Open+for+Collaboration+%7C+Freelance+%F0%9F%A4%9D;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=800&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%F0%9F%92%BB;Open+for+Collaboration+%7C+Freelance+%F0%9F%A4%9D;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="mailto:a.haiqaal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-a.haiqaal%40gmail.com-informational?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://github.com/<Heyqull>"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@<Heyqull>-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/Heyqull"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@Heyqull-181717?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
@@ -60,17 +60,9 @@
 
 ---
 
-## 📌 Featured Projects
-- **Orphan Management System (Gov of Brunei) — Backend Modules**  
-  Role: API development, SQL Server schema, auth & audit trails.  
-  Tech: .NET Core, REST API, SQL Server.
-
----
-
 ## 🤝 Let’s Connect
 - 📧 Email: **[a.haiqaal@gmail.com](mailto:a.haiqaal@gmail.com)**
-- 🧑‍💻 GitHub: **@<Heyqull>**
-- 🌐 (Optional) LinkedIn/Portfolio — add your links
+- 🧑‍💻 GitHub: **@Heyqull**
 
 ---
 
