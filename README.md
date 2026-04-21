@@ -17,16 +17,6 @@
   <a href="https://github.com/Heyqull"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@Heyqull-181717?style=for-the-badge&logo=github"/></a>
 </p>
 
----
-
-## 🧑‍💻 About Me
-- I build **custom websites and applications** end‑to‑end, from **intuitive frontends** to **robust backends**.
-- Recently completed a **Backend Internship** at **BitLab Digital (Damansara)**.
-- Contributed to an **Orphan Management System** for the **Government of Brunei** using **.NET/.NET Core, C#, REST APIs, SQL Server**.
-- Open to **collaboration**, **freelance**, and **learning opportunities** in **Frontend**, **Backend**, **Mobile**, and **AI/ML**.
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
@@ -39,16 +29,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</p>
-
-### Databases, APIs & Tools
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=buffer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
