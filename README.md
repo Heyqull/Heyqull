@@ -31,12 +31,4 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
----
-
-## 🤝 Let’s Connect
-- 📧 Email: **[a.haiqaal@gmail.com](mailto:a.haiqaal@gmail.com)**
-- 🧑‍💻 GitHub: **[@Heyqull](https://github.com/Heyqull)**
-
----
-
 <p align="center"><i>“It doesn't work, why? It works, why?”</i></p>
